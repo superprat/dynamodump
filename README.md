@@ -21,7 +21,7 @@ Simple DynamoDB backup/restore.
 
 optional arguments:
   -h, --help            show this help message and exit
-  -m MODE, --mode MODE  'backup' or 'restore'
+  -m MODE, --mode MODE  'backup' or 'restore' or 'empty'
   -r REGION, --region REGION
                         AWS region to use, e.g. 'us-west-1'. Use 'local' for
                         local DynamoDB testing.
